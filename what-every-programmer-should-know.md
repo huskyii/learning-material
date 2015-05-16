@@ -1,0 +1,15 @@
+# What every programmer should know
+
+ - [What a C programmer should know about memory](http://marek.vavrusa.com/c/memory/2015/02/20/memory/)
+ - [What Every C Programmer Should Know About Undefined Behavior #1/3](http://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html)
+ - [What Every C Programmer Should Know About Undefined Behavior #2/3](http://blog.llvm.org/2011/05/what-every-c-programmer-should-know_14.html)
+ - [What Every C Programmer Should Know About Undefined Behavior #3/3](http://blog.llvm.org/2011/05/what-every-c-programmer-should-know_21.html)
+ - [Latency Numbers Every Programmer Should Know By Year](http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
+ - [What should every programmer know about security](https://stackoverflow.com/questions/2794016/what-should-every-programmer-know-about-security)
+ - [What every programmer needs to know about game networking](http://gafferongames.com/networking-for-game-programmers/what-every-programmer-needs-to-know-about-game-networking/)
+ - [What Every Programmer Should Know About SEO](http://katemats.com/what-every-programmer-should-know-about-seo/)
+ - [What technical details should a programmer of a web application consider before making the site public](https://programmers.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before)
+ - [What every web developer must know about URL encoding](http://blog.lunatech.com/2009/02/03/what-every-web-developer-must-know-about-url-encoding)
+ - [What Every Programmer Should Know About Time](https://unix4lyfe.org/time/)
+ - [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
+ - [What every computer programmer should know about floating point, part 1](http://blog.reverberate.org/2014/09/what-every-computer-programmer-should.html)
